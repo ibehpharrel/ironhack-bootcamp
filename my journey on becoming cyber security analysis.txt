@@ -1,0 +1,101 @@
+My Cybersecurity Journey – Starting with a Home Lab
+
+My journey into cybersecurity began through the Ironhack bootcamp, where I was introduced to the importance of hands-on learning.
+
+Instead of just studying theory, I built my own home lab — a safe environment where I could practice real cybersecurity tools and techniques without risking real systems.
+
+🧰 Step 1 — Building My First Home Lab
+
+I started by installing VirtualBox on my laptop.
+
+👉 VirtualBox allows me to run multiple operating systems inside my main computer safely.
+
+This created a sandbox environment where I could simulate attacks, defenses, and network activity — just like in real-world cybersecurity scenarios.
+
+🐉 Step 2 — Installing Kali Linux
+
+Next, I downloaded and installed Kali Linux inside VirtualBox.
+
+Kali Linux is a penetration testing operating system used by ethical hackers and security professionals.
+
+Inside my virtual machine, I now had access to powerful tools used for:
+
+Network analysis
+
+Vulnerability scanning
+
+Ethical hacking practice
+
+This marked my first real step into offensive security learning.
+
+🌐 Step 3 — Scanning My Network with Nmap
+
+Once Kali Linux was running, I began exploring one of the most important tools in cybersecurity:
+
+➡️ Nmap (Network Mapper)
+
+Using Nmap, I scanned my own home network to:
+
+Discover connected devices
+
+Identify open ports
+
+Understand how networks expose services
+
+This helped me learn:
+
+✔️ How attackers map networks
+✔️ How defenders detect exposure
+✔️ How visibility is the first step to security
+
+🧭 Visual Diagram of My Learning Journey
+             CYBERSECURITY JOURNEY
+                     │
+                     ▼
+            Ironhack Bootcamp
+                     │
+                     ▼
+              Built Home Lab
+                     │
+                     ▼
+          Installed VirtualBox
+                     │
+                     ▼
+         Created Virtual Machine
+                     │
+                     ▼
+          Installed Kali Linux
+                     │
+                     ▼
+        Access to Security Tools
+                     │
+                     ▼
+              Used Nmap
+                     │
+                     ▼
+         Scanned My Home Network
+                     │
+                     ▼
+     Discovered Devices & Open Ports
+                     │
+                     ▼
+        Learned Network Visibility
+                     │
+                     ▼
+        First Step into Ethical Hacking
+
+🧠 What I Gained
+
+Through this process, I learned:
+
+How virtual environments work
+
+How ethical hackers set up labs
+
+How networks can be mapped
+
+How attackers identify targets
+
+Most importantly:
+
+👉 I moved from theory → real hands-on cybersecurity practice
