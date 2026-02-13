@@ -1,0 +1,185 @@
+Week 1 – Foundations of Network Administration
+
+During my first week at Ironhack, I was introduced to the core principles of network administration — the backbone of cybersecurity.
+
+Before you can secure a system, you must understand how it communicates.
+
+🌐 Introduction to Network Administration
+
+Network administration focuses on managing, maintaining, and securing communication between devices.
+
+Every time devices connect — laptops, phones, servers — they rely on a network administrator’s work behind the scenes.
+
+I learned that networks are not just cables and Wi-Fi…
+
+They are structured environments that require:
+
+Monitoring
+
+Configuration
+
+Security
+
+Troubleshooting
+
+Without proper administration, networks become vulnerable to:
+
+❌ Downtime
+❌ Data leaks
+❌ Unauthorized access
+
+🧑‍💻 Responsibilities of a Network Administrator
+
+I discovered that network administrators play a critical role in both operations and security.
+
+Their responsibilities include:
+
+🔧 Setup & Configuration
+
+Installing routers, switches, and firewalls
+
+Assigning IP addresses
+
+Managing access controls
+
+📡 Monitoring Network Activity
+
+Ensuring systems stay online
+
+Tracking unusual traffic
+
+Detecting performance issues
+
+🔐 Security Management
+
+Implementing firewalls
+
+Controlling user access
+
+Preventing unauthorized connections
+
+🛠 Maintenance
+
+Updating systems
+
+Optimizing performance
+
+Backing up configurations
+
+🚨 Troubleshooting
+
+Fixing connectivity issues
+
+Identifying bottlenecks
+
+Resolving outages
+
+This made me realize:
+
+👉 Network admins are the first line of defense in cybersecurity.
+
+🧩 Understanding VLANs (Virtual Local Area Networks)
+
+One of the most important concepts I learned was VLANs.
+
+A VLAN allows a single physical network to be divided into multiple virtual networks.
+
+Think of it like turning one office into separate secure departments:
+
+Department	VLAN
+HR	VLAN 10
+Finance	VLAN 20
+IT	VLAN 30
+
+Even if everyone shares the same hardware…
+
+They are logically separated.
+
+Why VLANs Matter
+
+✔️ Improve security
+✔️ Reduce unnecessary traffic
+✔️ Isolate sensitive data
+✔️ Prevent attackers from moving freely across networks
+
+Example:
+
+Without VLANs → If one device is compromised, the attacker can scan the entire network.
+
+With VLANs → The attacker is contained within that segment.
+
+🛠 Introduction to Network Troubleshooting
+
+I also learned the fundamentals of diagnosing network problems.
+
+Troubleshooting is a critical skill because:
+
+👉 Networks will always experience issues.
+
+The key is identifying where the problem is.
+
+Basic Troubleshooting Approach
+
+Identify the issue
+
+No internet?
+
+Slow connection?
+
+Check physical layer
+
+Cables connected?
+
+Devices powered on?
+
+Verify configuration
+
+IP address correct?
+
+VLAN assigned properly?
+
+Test connectivity
+
+Can devices communicate?
+
+Analyze traffic
+
+Is something blocking access?
+
+Tools like ping, traceroute, and eventually Nmap help visualize network behavior.
+
+📊 Week 1 Learning Flow
+        INTRO TO NETWORK ADMIN
+                 │
+                 ▼
+     Network Admin Responsibilities
+                 │
+                 ▼
+        Network Segmentation
+              (VLANs)
+                 │
+                 ▼
+       Secure & Organized Traffic
+                 │
+                 ▼
+       Network Troubleshooting
+                 │
+                 ▼
+   Identify & Resolve Issues
+                 │
+                 ▼
+   Build Strong Security Foundation
+
+🧠 Key Takeaway
+
+This week showed me that:
+
+Cybersecurity doesn't start with hacking…
+
+It starts with understanding:
+
+➡️ How networks are built
+➡️ How they are managed
+➡️ How they fail
+
+Because you can’t protect what you don’t understand.
